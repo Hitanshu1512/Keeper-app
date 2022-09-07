@@ -1,0 +1,32 @@
+{
+  "name": "keeper-app-part-1-starting",
+  "version": "1.0.0",
+  "description": "<img align=\"center\" src=\"https://i.imgur.com/yYc05nE.png\"> <h4 align=\"center\">🔦 Keeper 🔦</h4>",
+  "keywords": [],
+  "engines": { "npm": "6.14.1", "node": "12.13.0" },
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "react": "^16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "^4.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "author": "",
+  "license": "ISC"
+}
